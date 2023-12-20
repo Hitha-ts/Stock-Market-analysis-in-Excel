@@ -1,6 +1,6 @@
-Business Objective
+**Business Objective** :
 The primary objective of this dataset is to provide insights into the stock market performance of the select major companies. Through analysis, we aim to identify patterns, trends, and anomalies in the stock’s behaviour over time. By doing so, we hope to make informed decisions regarding the stock purchases, sales, or holdings, potentially.
-Columns description:
+**Columns description:**
 Date: The date of the stock data entry.
 Ticker: The stock ticker or symbol.
 Open: The opening price of the stock on that date.
